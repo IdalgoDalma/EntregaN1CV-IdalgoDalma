@@ -1,0 +1,43 @@
+*{background-color: rgb(243, 238, 219);}
+
+h1{background-color: rgb(247, 216, 40); 
+    border:12px solid;
+    width: 100%;
+    position:fixed;}
+h2{background-color: rgb(78, 194, 155); 
+    border-left: 20px solid; 
+    padding-left: 10px;
+    border-right: 20px solid; 
+    margin: solid rgb(250, 228,154)
+    }
+h3{color: darkgreen; 
+    background-color: rgb(245, 122, 169); 
+    margin-left: solid rgb(250, 228, 154); 
+    border-left: 20px solid rgb(255, 117, 4); 
+    padding-left: 10px;
+}
+
+p, h1, h2, h3, h4 {font-family: 'Neucha', cursive;}
+
+.dale{background-color: rgb(255, 115, 0);
+padding-right: 100px;
+border: 5px solid rgb(255, 117, 4);
+}
+ 
+p{padding-left: 35px;}
+  
+.foto1 {
+    border: 15px solid;
+    float: right;
+    position: initial;  
+}
+
+button {background:rgb(7, 6, 2);
+     color:rgb(64, 215, 226); 
+     border-block-color:rgb(223, 182, 51) ;
+     border-width: inherit;
+     float: none;
+    }
+
+
+
